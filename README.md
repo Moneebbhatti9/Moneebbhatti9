@@ -4,7 +4,7 @@ A passionate **software developer** & **AI enthusiast** with over **2 years of i
 
 ![Profile views](https://komarev.com/ghpvc/?username=moneebbhatti9&color=blue)
 
-[![Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/moneeburrehman/)
 
 - 🔭 I’m currently working on **Chatbot Integration** projects, enhancing user experience through intelligent conversation systems.
 - 🌱 I’m currently learning **AI-driven web solutions** and exploring tools that merge AI with web development.
