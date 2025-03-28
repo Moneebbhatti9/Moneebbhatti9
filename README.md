@@ -1,6 +1,6 @@
 # Hi 👋, I'm Moneeb Ur Rehman
 
-A passionate **software developer** & **AI enthusiast** with over **2 years of industry experience**.
+A passionate **software developer** & **AI enthusiast** with over **06 years of industry experience**.
 
 ![Profile views](https://komarev.com/ghpvc/?username=moneebbhatti9&color=blue)
 
@@ -8,7 +8,6 @@ A passionate **software developer** & **AI enthusiast** with over **2 years of i
 
 - 🔭 I’m currently working on **Chatbot Integration** projects, enhancing user experience through intelligent conversation systems.
 - 🌱 I’m currently learning **AI-driven web solutions** and exploring tools that merge AI with web development.
-- 📝 Learn more about me: [Your Personal Website](https://moneeb-portfolio.vercel.app)
 - 💬 Ask me about **building AI-powered web platforms**, chatbot development, and crafting modern web applications with **React**, **Angular**, and **Node.js**.
 - 📫 How to reach me: **muhammadmoneeburrehman@gmail.com**
 
