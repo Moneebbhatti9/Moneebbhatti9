@@ -1,34 +1,199 @@
-# Hi 👋, I'm Moneeb Ur Rehman
+<div align="center">
+  
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Moneeb+Ur+Rehman;Full-Stack+Developer+%7C+AI+Integration+Specialist)](https://git.io/typing-svg)
 
-A passionate **software developer** & **AI enthusiast** with over **06 years of industry experience**.
-
-![Profile views](https://komarev.com/ghpvc/?username=moneebbhatti9&color=blue)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/moneeburrehman/)
-
-- 🔭 I’m currently working on **Chatbot Integration** projects, enhancing user experience through intelligent conversation systems.
-- 🌱 I’m currently learning **AI-driven web solutions** and exploring tools that merge AI with web development.
-- 💬 Ask me about **building AI-powered web platforms**, chatbot development, and crafting modern web applications with **React**, **Angular**, and **Node.js**.
-- 📫 How to reach me: **muhammadmoneeburrehman@gmail.com**
-
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/YourTwitterHandle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://linkedin.com/in/YourLinkedInProfile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/YourInstagramHandle" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/moneeburrehman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:muhammadmoneeburrehman@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/moneebbhatti9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=moneebbhatti9&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moneebbhatti9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moneebbhatti9&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moneebbhatti9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=moneebbhatti9&icon=0&color=3)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
+```typescript
+const moneeb = {
+    role: "Staff Software Engineer @ Pakistan Air Force",
+    experience: "3+ years",
+    focus: ["Full-Stack Development", "AI Integration", "Enterprise Solutions"],
+    currentlyBuilding: "Mission-critical defense applications",
+    passion: "Transforming complex problems into elegant AI-powered solutions"
+};
+```
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
+
+- 🔭 Building **enterprise-grade applications** for defense operations
+- 🤖 Specializing in **AI-powered solutions** with ChatGPT, Gemini & Voiceflow
+- 🌐 Crafting **real-time systems** with WebSockets & modern architectures
+- 📚 Exploring **distributed systems** & advanced software architecture
+- 💡 Passionate about **LegalTech, EdTech & Healthcare** innovations
+
+<br clear="right"/>
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ Splitifi Divorce
+**AI-Driven LegalTech Platform**
+
+Transforming complex divorce processes into structured, data-driven experiences with intelligent legal guidance.
+
+`React` `Redux` `Node.js` `ChatGPT API` `Pinecone` `PostgreSQL` `Plaid API`
+
+</td>
+<td width="50%">
+
+### 🤝 TopProz
+**B2B Platform with AI Chatbot**
+
+Scalable B2B web platform featuring real-time chat and AI-powered lead generation chatbot.
+
+`Angular` `WebSockets` `MongoDB` `Voiceflow` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 AI Course Generator
+**EdTech Learning Platform**
+
+AI-powered platform generating personalized courses, quizzes, and gamified content based on user profiles.
+
+`React` `TypeScript` `Redux` `ChatGPT API` `Node.js`
+
+</td>
+<td width="50%">
+
+### 🏥 Senior Care Platform
+**Healthcare Management System**
+
+Real-time healthcare platform for patient care coordination with HIPAA-compliant design.
+
+`Angular 16` `WebSockets` `Node.js` `REST APIs`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Arsenal
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript,javascript,redux,tailwind,bootstrap,materialui,sass,html,css" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,prisma" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="48"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="48"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI & ML Integration</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT_API-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Voiceflow-1E1E1E?style=for-the-badge&logo=voiceflow&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,github,git" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="48"/>
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moneebbhatti9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=moneebbhatti9&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneebbhatti9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages"/>
+</div>
+
+---
+
+## 🎯 Career Journey
+
+```mermaid
+timeline
+    title Professional Experience
+    2022 : Intern @ Eziline Software House
+         : Frontend Development Foundations
+    2023 : Intern @ Fidsor
+         : React.js & State Management
+         : Associate Engineer @ Codegenio
+         : Enterprise B2B Platforms
+    2024 : Software Engineer @ Octaloop
+         : AI Integration & LegalTech
+         : Remote Engineer @ Codera (US)
+         : EdTech & LMS Development
+    2025 : Staff Software Engineer @ PAF
+         : Defense & Enterprise Systems
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+**Open to collaborations on AI-powered web applications and innovative tech solutions!**
+
+<a href="https://www.linkedin.com/in/moneeburrehman/">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:muhammadmoneeburrehman@gmail.com">
+  <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
+</div>
